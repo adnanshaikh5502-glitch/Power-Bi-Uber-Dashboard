@@ -1,2 +1,2 @@
 # Power-Bi-Uber-Dashboard
-I created an interactive Sales Performance Dashboard in Tableau to deliver a clear and powerful overview of key business metrics. The dashboard analyzes category-wise revenue, monthly sales trends, and customer behavior, making it easy to understand how different segments contribute to overall performance.
+This project presents a fully interactive Uber Analytics Dashboard built using Power BI, designed to analyze key business metrics such as bookings, revenue, customer ratings, and trip behavior. The dashboard offers a clean, modern UI with intuitive visuals, providing quick insights for data-driven decision-making.
